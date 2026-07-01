@@ -5,15 +5,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=michellee0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 GitHub Trophies
 
+[![Saliha's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=michellee0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
-# 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=michellee0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="michellee0" width="400" />
-</div>
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michellee0&show_icons=true&theme=dark&bg_color=1e1e2f&title_color=38bdf8&icon_color=38bdf8&text_color=fff" alt="Saliha's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellee0&layout=compact&theme=dark&bg_color=1e1e2f&title_color=38bdf8&text_color=fff" alt="Saliha's Top Languages" height="150" />
+</p>
 
 <div align="center" style="text-align: center; margin-top: 10px;">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellee0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="michellee0" width="420" />
