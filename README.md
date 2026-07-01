@@ -14,7 +14,7 @@
 - 💻 Interested in **Web Development, Artificial Intelligence & Automation**
 - 🚀 I enjoy creating clean, responsive and user-friendly applications
 - 🤝 Open to collaborating on exciting open-source and web projects
-- 📫 Reach me: **yourmail@example.com**
+- 📫 Reach me: **salihamini38@gmail.com**
 
 ---
 
@@ -74,11 +74,11 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/saliha-mini-link/)">
+<a href="https://www.linkedin.com/in/saliha-mini-link/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="salihamini38@gmail.com">
+<a href="mailto:salihamini38@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
