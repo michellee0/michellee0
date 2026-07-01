@@ -1,19 +1,93 @@
-# 💫 About Me:
-🔭 I’m currently student at KTO Karatay Uni Computer Programming.<br>👯 I’m looking to collaborate on interesting web development projects, especially from my public repositories.<br>🌱 I’m actively learning ReactJS and exploring best practices for modern web apps.
-
-[![](https://visitcount.itsvg.in/api?id=michellee0&icon=0&color=10)](https://visitcount.itsvg.in)
-
----
-
-### 🏆 GitHub Trophies
-
-[![Saliha's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=michellee0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats:
+<h1 align="center">Hi 👋, I'm Saliha</h1>
+<h3 align="center">💻 Computer Programming Student | Front-End Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michellee0&show_icons=true&theme=dark&bg_color=1e1e2f&title_color=38bdf8&icon_color=38bdf8&text_color=fff" alt="Saliha's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellee0&layout=compact&theme=dark&bg_color=1e1e2f&title_color=38bdf8&text_color=fff" alt="Saliha's Top Languages" height="150" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Programming+Student;Front-End+Developer;Currently+Learning+ReactJS;Always+Building+Something+New+🚀" />
+</p>
+
+---
+
+## 💫 About Me
+
+- 🎓 Computer Programming student at **KTO Karatay University**
+- 🌱 Currently learning **ReactJS** and modern web technologies
+- 💻 Interested in **Web Development, Artificial Intelligence & Automation**
+- 🚀 I enjoy creating clean, responsive and user-friendly applications
+- 🤝 Open to collaborating on exciting open-source and web projects
+- 📫 Reach me: **yourmail@example.com**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,cs,git,github,vscode,mysql" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=michellee0&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellee0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michellee0&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=michellee0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=michellee0&icon=5&color=12"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/michellee0">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/saliha-mini-link/)">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="salihamini38@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Code. Learn. Build. Repeat."* 🚀
+
 </p>
