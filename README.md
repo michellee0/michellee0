@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%23include+%3Ciostream%3E;%23include+%3Cvector%3E;using+namespace+std;int+main()+%7B+cout+%3C%3C+%22Hello+World!%22%3B+%7D;Saliha+Mini+%7C+Computer+Programming+Student;Saliha+Mini+Developer+%F0%9F%9A%80" />
+</p>
 <h1 align="center">Hi 👋, I'm Saliha</h1>
 <h3 align="center">💻 Computer Programming Student | Front-End Developer | AI Enthusiast</h3>
 
