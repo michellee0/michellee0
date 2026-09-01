@@ -26,25 +26,24 @@
 </p>
 
 ---
-
 ## 🔥 Featured Projects
 
 <p align="center">
   <a href="https://github.com/michellee0/personal-finance-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=personal-finance-assistant&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=personal-finance-assistant&theme=tokyonight&hide_border=true&v=1" />
   </a>
   <a href="https://github.com/michellee0/cpp-student-grading-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=cpp-student-grading-system&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=cpp-student-grading-system&theme=tokyonight&hide_border=true&v=1" />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- Sunucu vercel.app olarak güncellendi, artık kırık görünmemeli -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michellee0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellee0&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michellee0&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellee0&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 <p align="center">
