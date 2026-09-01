@@ -22,7 +22,6 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <!-- PHP ve C++ (cpp) ikonları eklendi -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,cpp,java,cs,git,github,vscode,mysql" />
 </p>
 
@@ -31,15 +30,12 @@
 ## 🔥 Featured Projects
 
 <p align="center">
-  <!-- 
-    NOT: 'repo=' kısımlarındaki isimleri kendi GitHub repolarının tam isimleriyle değiştirmelisin. 
-    Örnek olarak az önce konuştuğumuz projeleri yazdım.
-  -->
+  <!-- Repoları public olarak yüklediğinde bu kartlar otomatik olarak görünecektir -->
   <a href="https://github.com/michellee0/php-bill-tracker">
-    <img src="https://github-readme-stats.mirac.cc/api/pin/?username=michellee0&repo=php-bill-tracker&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=php-bill-tracker&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/michellee0/cpp-student-grading-system">
-    <img src="https://github-readme-stats.mirac.cc/api/pin/?username=michellee0&repo=cpp-student-grading-system&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=cpp-student-grading-system&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -48,8 +44,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.mirac.cc/api?username=michellee0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.mirac.cc/api/top-langs/?username=michellee0&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Sunucu vercel.app olarak güncellendi, artık kırık görünmemeli -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michellee0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellee0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
