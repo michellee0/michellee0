@@ -30,15 +30,13 @@
 ## 🔥 Featured Projects
 
 <p align="center">
-  <!-- Repoları public olarak yüklediğinde bu kartlar otomatik olarak görünecektir -->
-  <a href="https://github.com/michellee0/php-bill-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=php-bill-tracker&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/michellee0/personal-finance-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=personal-finance-assistant&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/michellee0/cpp-student-grading-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=michellee0&repo=cpp-student-grading-system&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
 ---
 
 ## 📊 GitHub Statistics
