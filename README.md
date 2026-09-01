@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=200&color=00FF66&center=false&vCenter=true&width=800&lines=Initializing+kernel+modules...+OK;Loading+system+environment+variables...;Connecting+to+localhost%3A3306+(MySQL)...+Connected;Executing+migration%3A+CREATE+TABLE+users+(id+INT+AUTO_INCREMENT+PRIMARY+KEY);Compiling+C%2B%2B+source+files+with+g%2B%2B...+Done;Running+server+at+http%3A%2F%2Flocalhost%3A80;Access+Granted.+Welcome+Saliha+Mini+Developer_%3B" />
+  <img src="https://media.giphy.com/media/Ymm6zQn6j8oU/giphy.gif" width="100%" style="border-radius: 12px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Saliha</h1>
 <h3 align="center">💻 Computer Programming Student | Front-End Developer | AI Enthusiast</h3>
