@@ -10,6 +10,7 @@
 ## 💫 About Me
 
 - 🎓 Computer Programming student at **KTO Karatay University**
+- 🎯 Preparing to transition into **Computer/Software Engineering**
 - 🌱 Currently learning **ReactJS** and modern web technologies
 - 💻 Interested in **Web Development, Artificial Intelligence & Automation**
 - 🚀 I enjoy creating clean, responsive and user-friendly applications
@@ -21,7 +22,25 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,cs,git,github,vscode,mysql" />
+  <!-- PHP ve C++ (cpp) ikonları eklendi -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,cpp,java,cs,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+<p align="center">
+  <!-- 
+    NOT: 'repo=' kısımlarındaki isimleri kendi GitHub repolarının tam isimleriyle değiştirmelisin. 
+    Örnek olarak az önce konuştuğumuz projeleri yazdım.
+  -->
+  <a href="https://github.com/michellee0/php-bill-tracker">
+    <img src="https://github-readme-stats.mirac.cc/api/pin/?username=michellee0&repo=php-bill-tracker&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/michellee0/cpp-student-grading-system">
+    <img src="https://github-readme-stats.mirac.cc/api/pin/?username=michellee0&repo=cpp-student-grading-system&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -35,22 +54,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=michellee0&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=michellee0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=michellee0&label=Profile%20Views&color=38bdf8&style=flat" alt="michellee0 views" />
 </p>
 
 ---
