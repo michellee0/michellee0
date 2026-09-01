@@ -1,12 +1,3 @@
-```bash
-Last login: %s on ttys001
-Initializing system kernel... [OK]
-Connecting to database (MySQL)... [CONNECTED]
-Loading user profile: Saliha Mini
-Status: Computer Programming Student & Developer 🚀
---------------------------------------------------
-$ g++ main.cpp -o app && ./app
-Compiling... Success! Running program...
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/code.gif" width="100%" style="border-radius: 12px;" />
 </p>
