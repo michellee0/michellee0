@@ -38,18 +38,12 @@
 </p>
 
 ---
----
-
-## 🚀 My Coding Assistant
 
 <p align="center">
-  <!-- Buradaki GIF linkini istediğin herhangi bir Giphy veya Pinterest GIF linkiyle değiştirebilirsin -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p1b250Yno5N2YxcHRxbGZseHl4a2ZqaGozZGJqcmNxcXpmMW53byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L50nOVqH6uMLe/giphy.gif" width="350" style="border-radius: 15px;" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 </p>
 
 ---
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
