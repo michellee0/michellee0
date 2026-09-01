@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/Ymm6zQn6j8oU/giphy.gif" width="100%" style="border-radius: 12px;" />
-</p>
 <h1 align="center">Hi 👋, I'm Saliha</h1>
 <h3 align="center">💻 Computer Programming Student | Front-End Developer | AI Enthusiast</h3>
 
